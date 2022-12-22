@@ -31,7 +31,7 @@ namespace WindowsFormsApp1
             }
             catch
             {
-                MessageBox.Show("Помилка введення");
+                MessageBox.Show("Error");
             }
         }
         class Arrays
